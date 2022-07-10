@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vishalaher999/ReactJs_Projects/static/css/main.769ea05f.css",
+    "main.js": "/vishalaher999/ReactJs_Projects/static/js/main.85488fdc.js",
+    "index.html": "/vishalaher999/ReactJs_Projects/index.html",
+    "main.769ea05f.css.map": "/vishalaher999/ReactJs_Projects/static/css/main.769ea05f.css.map",
+    "main.85488fdc.js.map": "/vishalaher999/ReactJs_Projects/static/js/main.85488fdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.769ea05f.css",
+    "static/js/main.85488fdc.js"
+  ]
+}
